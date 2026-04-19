@@ -1,4 +1,4 @@
-// ## Hi there 👋
+<!-- ## Hi there 👋-->
 
 <!--
 **lwe-lin/lwe-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 我常用的程式語言列表：
-<img src="https://img.shields.io/badge/Language-Rust-orange?logo=rust">
+<img src="https://simpleicons.org/icons/rust.svg" width="100" height="100">
