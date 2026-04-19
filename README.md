@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 我喜歡和常用的程式語言列表(依照我最喜歡和擅長程度排序)：
+# 我喜歡和常用的程式語言列表(依照我最喜歡和擅長程度排序)
 <br>
 <table>
   <tr>
