@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 我常用的程式語言列表：
-https://img.shields.io/badge/Language-Rust-orange?logo=rust
+<img src="https://img.shields.io/badge/Language-Rust-orange?logo=rust">
