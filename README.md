@@ -1,4 +1,4 @@
-## Hi there 👋
+// ## Hi there 👋
 
 <!--
 **lwe-lin/lwe-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我常用的程式語言列表：
+https://img.shields.io/badge/Language-Rust-orange?logo=rust
