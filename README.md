@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-        <img src="https://simpleicons.org/icons/rust.svg" width="100" height="100">
-        <p>Rust</p>
-    </td>
-    <td>
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="100" height="100">
         <p>C#</p>
+    </td>
+    <td>
+        <img src="https://simpleicons.org/icons/rust.svg" width="100" height="100">
+        <p>Rust</p>
     </td>
     <td>
       <table>
